@@ -9,6 +9,10 @@ class HelloITI{
       System.out.println("HelloGit");
 	}
 	
+	public void printWelcomeGit(){
+      System.out.println("Welcome Git");
+	}
+	
 	public static void main(String args[]){
 		printHelloITI();
 		printHelloGit();
