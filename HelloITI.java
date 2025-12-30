@@ -12,6 +12,11 @@ class HelloITI{
 	 public void printCoodBye(){
 		 System.out.println("Bye");
 	 }	
+	
+	public void printWelcomeGit(){
+      System.out.println("Welcome Git");
+	}
+
 	public static void main(String args[]){
 		printHelloITI();
 		printHelloGit();
